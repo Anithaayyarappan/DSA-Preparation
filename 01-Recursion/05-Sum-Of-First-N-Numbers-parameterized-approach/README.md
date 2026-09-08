@@ -15,8 +15,8 @@ Find the sum of the first N natural numbers using parameterized recursion.
 
 main difference of functional and parameterized
 
-functional:- return n+sum(n-1);
-parameterized:- sum(n-1,total+n)    it maintain the total in the parameter...n==0 that time return the total from base case
+- functional:- return n+sum(n-1);
+- parameterized:- sum(n-1,total+n)  it maintain the total in the parameter...n==0 that time return the total from base case
 
 ## Time Complexity
 
