@@ -941,3 +941,12 @@ Time Complexity: O(log N)
 
 Space Complexity: O(log N)
 ```
+---
+
+# simple words for mod
+
+MOD use panrom because actual answer romba perusa aagi
+overflow aagalam.
+
+MOD use pannina number manageable-ah irukkum,
+and problem ketta required answer-um correct-ah kidaikkum.
